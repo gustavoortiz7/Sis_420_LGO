@@ -1,0 +1,7 @@
+Escogi un algoritmo de busqueda informada (a estrella)
+lo escogi por el motivo de que se expandira muchos nodos 
+por el cual debemos tomar la mejor decision para llegar mas rapido 
+a la solucion en el cual se utiliza una heuristica.
+Tome el algoritmo de rompecabezas de 3x3 el cual subio su persona al e-campus
+para poder hacer el ejercico que me toco el de 3x2, el programa resuelve el problema
+pero no todos los casos 
